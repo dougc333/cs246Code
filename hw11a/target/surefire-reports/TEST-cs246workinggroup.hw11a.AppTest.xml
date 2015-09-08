@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.003" errors="0" skipped="0" tests="1" name="cs246workinggroup.hw11a.AppTest">
+<testsuite failures="0" time="0.002" errors="0" skipped="0" tests="1" name="cs246workinggroup.hw11a.AppTest">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/usr/java/jdk1.7.0_79/jre/lib/amd64"/>
@@ -25,7 +25,7 @@
 "/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="os.name" value="Linux"/>
-    <property name="classworlds.conf" value="/home/dougc/workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf2135162021144297574.tmp"/>
+    <property name="classworlds.conf" value="/home/dougc/apache-maven-3.3.3/bin/m2.conf"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
     <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -38,11 +38,11 @@
     <property name="file.encoding" value="UTF-8"/>
     <property name="java.specification.version" value="1.7"/>
     <property name="user.name" value="dougc"/>
-    <property name="java.class.path" value="/home/dougc/Desktop/eclipse/plugins/org.eclipse.m2e.maven.runtime_1.6.1.20150625-2337/jars/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.class.path" value="/home/dougc/apache-maven-3.3.3/boot/plexus-classworlds-2.5.2.jar"/>
     <property name="java.vm.specification.version" value="1.7"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="/usr/java/jdk1.7.0_79/jre"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean package"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
@@ -52,7 +52,7 @@
     <property name="securerandom.source" value="file:/dev/./urandom"/>
     <property name="sun.boot.class.path" value="/usr/java/jdk1.7.0_79/jre/lib/resources.jar:/usr/java/jdk1.7.0_79/jre/lib/rt.jar:/usr/java/jdk1.7.0_79/jre/lib/sunrsasign.jar:/usr/java/jdk1.7.0_79/jre/lib/jsse.jar:/usr/java/jdk1.7.0_79/jre/lib/jce.jar:/usr/java/jdk1.7.0_79/jre/lib/charsets.jar:/usr/java/jdk1.7.0_79/jre/lib/jfr.jar:/usr/java/jdk1.7.0_79/jre/classes"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="maven.home" value="/home/dougc/cs246Code/hw11a/EMBEDDED"/>
+    <property name="maven.home" value="/home/dougc/apache-maven-3.3.3"/>
     <property name="file.separator" value="/"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -60,5 +60,5 @@
     <property name="sun.desktop" value="gnome"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase time="0.003" classname="cs246workinggroup.hw11a.AppTest" name="testApp"/>
+  <testcase time="0.002" classname="cs246workinggroup.hw11a.AppTest" name="testApp"/>
 </testsuite>

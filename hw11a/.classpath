@@ -22,5 +22,20 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-hdfs/hadoop-hdfs.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-hdfs/hadoop-hdfs-2.4.1.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-hdfs/hadoop-hdfs-2.4.1-tests.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-hdfs/hadoop-hdfs-nfs.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-hdfs/hadoop-hdfs-nfs-2.4.1.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop/hadoop-annotations.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop/hadoop-annotations-2.4.1.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop/hadoop-auth.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop/hadoop-auth-2.4.1.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop/hadoop-common.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop/hadoop-common-2.4.1.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop/hadoop-common-2.4.1-tests.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop/hadoop-nfs.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop/hadoop-nfs-2.4.1.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/hadoop-mapreduce/hadoop-mapreduce-client-common.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
